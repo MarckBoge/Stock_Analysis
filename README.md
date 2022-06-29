@@ -8,11 +8,13 @@ Steve is looking to do more stock market research for his parents. He would like
 
 
 2017 - Refactored Code
+
 ![Screen Shot 2022-06-28 at 11 44 22 PM](https://user-images.githubusercontent.com/90155651/176360751-bb31d5b4-f476-4685-9d5d-823a4fc3f87e.png)
 
 ![Screen Shot 2022-06-28 at 11 43 58 PM](https://user-images.githubusercontent.com/90155651/176360933-7a487294-02d2-4845-9b92-b946de60169b.png)
 
 2018 - Refactored Code
+
 ![Screen Shot 2022-06-28 at 11 42 56 PM](https://user-images.githubusercontent.com/90155651/176361064-5e0aeb91-a801-4a53-ac7c-55233ce96a26.png)
 
 ![Screen Shot 2022-06-28 at 11 43 33 PM](https://user-images.githubusercontent.com/90155651/176361183-fd90a705-5058-4fbe-b4ac-fdba63b574cf.png)
