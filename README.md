@@ -42,9 +42,9 @@ Advantages
 
 Disadvantages
 
-    •Refactoring the code can create errors that will require more time to fix.
-    •n the case of larger teams working on refactoring, the coordination effort required could be surprisingly high.
-    •An improved code is often difficult for the customer to recognize, since the functionality stays the same, so the benefit is not always seen.
+    • Refactoring the code can create errors that will require more time to fix.
+    • n the case of larger teams working on refactoring, the coordination effort required could be surprisingly high.
+    • An improved code is often difficult for the customer to recognize, since the functionality stays the same, so the benefit is not always seen.
 
 
 Advantages and Disadvantages of Refactoring Code Vs The Original Code
