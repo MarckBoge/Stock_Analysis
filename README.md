@@ -29,15 +29,21 @@ Stock Performance Between 2017 and 2018
 In 2017, 9 out 12 stocks had positive rates of return. In 2018, only had 8 out of 12 had positive rates of return. Base on the results 2017 had a good year of returns , where as in 2018, the market drop and resulted in only 8 stocks having positive returns.
 
 
+
+
 **Summary**
 
-Advantages and Disadvantages of Refactoring Code
+
+
+**Advantages and Disadvantages of Refactoring Code**
+
 
 **Advantages**
 
     • Better ability to preform maintenance, and adjust scale of the code.
     • Removed redundancies and duplications improve the effectiveness of the code.
     • The code uses less memory and computing power
+
 
 
 **Disadvantages**
@@ -47,9 +53,11 @@ Advantages and Disadvantages of Refactoring Code
     • An improved code is often difficult for the customer to recognize, since the functionality stays the same, so the benefit is not always seen.
 
 
+
 **Advantages and Disadvantages of Refactoring Code Vs The Original Code**
 
 I found the Refactored Code easier to write and had less issues debugging. AS with the Original had to figure out hot to write it and what goes where and the best way to get the imformation needed. After running the test I found something strange with my findings. The original performed better the the refactored code. I also got different results for 2017 stock returns.
+
 
 **Conclusion**
 
