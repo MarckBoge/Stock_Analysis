@@ -63,6 +63,8 @@ I found the Refactored Code easier to write and had less issues debugging. AS wi
 
 In this week challenge, I had to refactor VBA code to loop through all the data at one time in order to collect the same information that was collected using the original code. I had to determine whether or not refactoring my code successfully made the VBA script run faster, or did it not make a difference. Lastly, I presented a written analysis that explains my findings and process. It took sometime to improve the code. The code does run a little slower but does provide the correct data and more efficient, concise and easy to follow. So I do think it was well worth the time to refactor this code making it better for Steve.
 
-The excel document with the Stock Analysis code can be accessed 
+The excel document with the Stock Analysis code can be accessed below
+
+https://github.com/MarckBoge/Stock_Analysis/blob/main/VBA_Challenge.xlsm
 
 
